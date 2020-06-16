@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">test</string>
+    <string-array name="app_errors">
+        <item>Server returned an error</item>
+        <item>Response contains 0 users</item>
+        <item>Network failure</item>
+        <item>элемент</item>
+    </string-array>
+
+    <string name="user_info_gender">Gender:</string>
+    <string name="user_info_phone">Phone:</string>
+    <string name="user_info_country">Country:</string>
+    <string name="user_info_city">City:</string>
+    <string name="user_info_post_code">Postal code:</string>
+</resources>
